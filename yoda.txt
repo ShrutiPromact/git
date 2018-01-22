@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 No try there is,Do or do not.
+=======
+DO OR DO NOT, THERE IS NO TRY.
+
+>>>>>>> update author
